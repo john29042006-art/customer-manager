@@ -1,0 +1,10 @@
+# Gradle build output
+.gradle/
+build/
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.bin
+*.class
+*.lock
